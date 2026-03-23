@@ -8,7 +8,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Marco-A-Creator/Marco-A-Creator/output/snake.svg" alt="Snake animation" />
 
 ###
 
