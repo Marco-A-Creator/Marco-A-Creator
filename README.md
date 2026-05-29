@@ -1,5 +1,5 @@
 # 💫 About Me:
-##Hi, mein Name ist Marco<br><br>📚 Aktuell bin ich mich am Weiterbilden als FullStack Entwickler<br>   ➡️ Aktuller Themen Bereich: Frontend<br>💻 Organisation: Developer Akademie<br>🔜 Mein Ziel ist es ein Ausgezeichneter Developer zu werden
+##Hi, mein Name ist Marco<br><br>📚 Aktuell bin ich mich am Weiterbilden als KI FullStack Entwickler<br>   ➡️ Aktuller Themen Bereich: Frontend<br>💻 Organisation: Developer Akademie<br>🔜 Mein Ziel ist es ein Ausgezeichneter Developer zu werden
 
 
 ## 🌐 Socials:
